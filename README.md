@@ -1,2 +1,2 @@
 # ogame-bot
-Automatic mine builder
+Automatic mine builder. Ogame v5.8.5.

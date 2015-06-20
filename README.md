@@ -2,7 +2,7 @@
 Automatic mine builder.
 
 ## Description
-This bot build mines whenever resources are available.
+This bot build mines in a given ratio whenever resources are available.
 
 ## Libraries
 Mechanize and Beautiful Soup.
@@ -11,6 +11,7 @@ Mechanize and Beautiful Soup.
 - Login
 - Fetch data
 - Handle storage
+- Automatic building
 - Calculate wait time
 
 ## TODO

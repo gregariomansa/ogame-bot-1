@@ -2,7 +2,7 @@
 Automatic mine builder.
 
 ## Description
-This bot build mines in a given ratio whenever resources are available.
+This bot build mines in a given ratio whenever resources are available. Designed for Ogame v5.8.5.
 
 ## Libraries
 Mechanize and Beautiful Soup.
